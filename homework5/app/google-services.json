@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "839344203304",
+    "project_id": "lab5-e7f5f",
+    "storage_bucket": "lab5-e7f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839344203304:android:7bb496448c5b6f2c5b771d",
+        "android_client_info": {
+          "package_name": "com.nagel.lab5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839344203304-fok7hnhideabb7gvnf5kcd4is3q59a4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-j95L2CrzRgBiEiB3_XqF_mFHbnCGXEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839344203304-fok7hnhideabb7gvnf5kcd4is3q59a4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839344203304:android:b4acf63fdc3ae8055b771d",
+        "android_client_info": {
+          "package_name": "com.noole.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839344203304-fok7hnhideabb7gvnf5kcd4is3q59a4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-j95L2CrzRgBiEiB3_XqF_mFHbnCGXEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839344203304-fok7hnhideabb7gvnf5kcd4is3q59a4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
